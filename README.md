@@ -155,7 +155,7 @@ No known bugs at this time.
 
 ## Authors
 Chikodinaka Ann Anyanwu - [Github](https://github.com/chikodiann) / [Twitter](https://twitter.com/Annkachi)  
-Chikodili Charlse - [Github](https://github.com/Charles2k) / [Twitter](https://twitter.com/DeJaz019)
+Chikodili Charles - [Github](https://github.com/Charles2k) / [Twitter](https://twitter.com/DeJaz019)
 
 ## License
 Public Domain. No copy write protection. 
