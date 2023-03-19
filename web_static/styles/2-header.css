@@ -4,7 +4,13 @@
 
 /* Header style */
 header {
+<<<<<<< HEAD
   background-color: #f00;
   height: 70px;
   width: 100%;
+=======
+	background-color: #FF0000;
+	height: 70px;
+	width: 100%;
+>>>>>>> f53b1ef2f01558d278ffb4f058f242e93062f466
 }
